@@ -1,6 +1,6 @@
 # EngineeringThesis
 
-Tytuł: Rekonstrukcja torów cząstek w eksperymencie MUonE z wykorzystaniem metod uczenia maszynowego
+Tytuł: Rekonstrukcja torów cząstek w eksperymencie MUonE z wykorzystaniem metod uczenia maszynowego </br>
 Title: Particle track reconstruction in MUonE experiment using machine learning techniques
 
 ## Technologies
